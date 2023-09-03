@@ -11,10 +11,9 @@
         </h1>
       </a>
       <p class="text-lg font-helvetica">
-        Creado pensando en los amantes del Classic Beef & Cheddar. Disfruta con
-        el doble del tierno roast beef, la rica salsa de queso cheddar y Red
-        Ranch en un pan de cebolla que desatarán una fiesta de sabor en tu
-        paladar.
+        Creado pensando en los amantes del Classic Beef&Cheddar. Disfruta con el
+        doble del tierno roast beef, la rica salsa de queso cheddar y Red Ranch
+        en un pan de cebolla que desatarán una fiesta de sabor en tu paladar.
       </p>
       <p class="text-gray-500 text-left w-full">
         630 Calorías | 1080-1440 Combo
