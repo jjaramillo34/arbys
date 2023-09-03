@@ -326,7 +326,7 @@ const menu = [
         description: "",
         calories_description: "",
         type: false,
-        image: require("~/assets/images/Jamocha.webp"),
+        image: require("~/assets/images/jamocha.webp"),
       },
       {
         name: "Chocolate",
@@ -344,7 +344,7 @@ const menu = [
         description: "",
         calories_description: "",
         type: false,
-        image: require("~/assets/images/Vainilla.webp"),
+        image: require("~/assets/images/vainilla.webp"),
       },
     ],
   },
@@ -435,7 +435,7 @@ const menu = [
         description: "",
         calories_description: "",
         type: false,
-        image: require("~/assets/images/Sprite.webp"),
+        image: require("~/assets/images/sprite.webp"),
       },
       {
         name: "HI-C Fruit Punch",
