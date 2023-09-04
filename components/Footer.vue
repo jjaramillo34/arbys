@@ -121,6 +121,7 @@
         </section>
         <picture class="flex flex-1">
           <img
+            alt="Icono de Arby's"
             src="//images.ctfassets.net/o19mhvm9a2cm/5XlafrPuz8cK5nmXMqxfNi/964e80713a99bb0172fbfbccde6af455/A_LETTER.png?w=1500"
             class="absolute sm:bottom-8 opacity-10 right-0 bottom-0"
             style="object-fit: contain"

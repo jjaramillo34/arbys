@@ -7,12 +7,14 @@
         <nuxt-link
           to="/"
           class="text-lg font-semibold tracking-widest uppercase rounded-lg text-white focus:outline-none focus:shadow-outline"
+          aria-label="Logo link Arby's"
         >
           <logo />
         </nuxt-link>
         <button
           class="md:hidden rounded-lg focus:outline-none focus:shadow-outline"
           @click="open = !open"
+          role="menu buttons"
         >
           <svg fill="#fff" viewBox="0 0 20 20" class="w-6 h-6">
             <path
