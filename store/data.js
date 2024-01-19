@@ -147,17 +147,17 @@ const menu = [
         type: false,
         image: require("~/assets/images/pulled-pork.webp"),
       },
-      {
-        name: "Triple Thick BLT",
-        subTitle: false,
-        slug: "triple-thick-blt",
-        calories: 540,
-        description:
-          "Una fabulosa combinación de carne y vegetales frescos; crujiente bacon bañado en azúcar morena, con mayonesa, lechuga y tomate fresco en pan brioche.",
-        calories_description: "540 Calorías | 990-1350 Combo",
-        type: false,
-        image: require("~/assets/images/triple-thick-blt.webp"),
-      },
+      //{
+      //name: "Triple Thick BLT",
+      //subTitle: false,
+      //slug: "triple-thick-blt",
+      //calories: 540,
+      //description:
+      //"Una fabulosa combinación de carne y vegetales frescos; crujiente bacon bañado en azúcar morena, con mayonesa, lechuga y tomate fresco en pan brioche.",
+      //calories_description: "540 Calorías | 990-1350 Combo",
+      //type: false,
+      //image: require("~/assets/images/triple-thick-blt.webp"),
+      //},
     ],
   },
   {
@@ -442,17 +442,17 @@ const menu = [
       //     type: false,
       //     image: require("~/assets/images/triple-chocolate.webp"),
       // },
-      {
-        name: "Salted Caramel",
-        subTitle: false,
-        slug: "salted-caramel",
-        calories: 430,
-        description:
-          "Galletas de caramelo y chocolate Ghirardelli con un toque salado, ¿salado?, así es; tan raro como suena es tan rico como sabe.",
-        calories_description: "430 Calorías",
-        type: false,
-        image: require("~/assets/images/salted-caramel.webp"),
-      },
+      //{
+      //  name: "Salted Caramel",
+      //  subTitle: false,
+      //  slug: "salted-caramel",
+      //  calories: 430,
+      //  description:
+      //    "Galletas de caramelo y chocolate Ghirardelli con un toque salado, ¿salado?, así es; tan raro como suena es tan rico como sabe.",
+      //  calories_description: "430 Calorías",
+      //  type: false,
+      //  image: require("~/assets/images/salted-caramel.webp"),
+      //},
       {
         name: "Cherry turnover",
         subTitle: false,
