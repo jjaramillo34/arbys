@@ -81,6 +81,7 @@
         </div>
         <div>
           <h1 class="my-4 text-4xl font-rockwell-bold">Montehiedra</h1>
+          <h2 class="my-4 text-2xl font-rockwell-bold">PRONTO</h2>
         </div>
       </div>
     </div>
