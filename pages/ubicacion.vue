@@ -65,6 +65,24 @@
             loading="lazy"
           ></iframe>
         </div>
+        <div>
+          <h1 class="my-4 text-4xl font-rockwell-bold">Manatí</h1>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3785.1469514153277!2d-66.4787513!3d18.4316358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c03198071d2533b%3A0x8fedb10d3a6f6f48!2sArby&#39;s!5e0!3m2!1sen!2sus!4v1705636832850!5m2!1sen!2sus"
+            class="border-0 w-full h-screen max-h-80"
+            allowfullscreen=""
+            loading="lazy"
+          ></iframe>
+        </div>
+
+        <div>
+          <h1 class="my-4 text-4xl font-rockwell-bold">Fajardo</h1>
+          <h2 class="my-4 text-2xl font-rockwell-bold">PRONTO</h2>
+        </div>
+        <div>
+          <h1 class="my-4 text-4xl font-rockwell-bold">Montehiedra</h1>
+          <h2 class="my-4 text-2xl font-rockwell-bold">PRONTO</h2>
+        </div>
       </div>
     </div>
   </Layout>
